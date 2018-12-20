@@ -1,0 +1,14 @@
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+c:\users\wwg\Source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+K:\工作\农信\学习\最新异步委托\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
